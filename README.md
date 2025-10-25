@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-🎓 I'm soon graduating with a bachelor's degree in Systems Science from Örebro University (Janurary 2026).
+🎓 I'm soon graduating with a bachelor's degree in Systems Science from Örebro University (Janurary 2026)
 
 🧠 Passionate about web & .NET development
 
