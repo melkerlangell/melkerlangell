@@ -7,7 +7,7 @@
 
 🧠 Passionate about web & .NET development
 
-💡 Internship at Örebro municipality (Spring 2025)
+💡 Practice at Örebro municipality (Spring 2025)
 
 ☁️ Currently learning about AI automation and Azure
 
