@@ -9,8 +9,6 @@
 
 💡 Practice at Örebro municipality (Spring 2025)
 
-☁️ Currently learning about AI automation and Azure
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() (COMING SOON)
