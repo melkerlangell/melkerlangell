@@ -7,7 +7,7 @@
 
 🧠 Passionate about web & .NET development
 
-💡 Practice at Örebro municipality (Spring 2025)
+💡 Internship at Örebro municipality (Spring 2025)
 
 
 ## 🔗 Links
